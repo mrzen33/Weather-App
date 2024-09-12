@@ -1,3 +1,6 @@
+## Vercel deploy
+Open [https://weather-app-one-snowy-53.vercel.app/](https://weather-app-one-snowy-53.vercel.app/)
+
 ## Getting Started
 Install the dependencies:
 
