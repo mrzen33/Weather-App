@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css'; // use bootstrap
 
 export const metadata: Metadata = {
   title: "Weather App",
-  description: "",
+  description: "Weather App",
 };
 
 const my_font = Merriweather_Sans({ subsets: ['latin'] });
